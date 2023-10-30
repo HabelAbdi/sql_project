@@ -1,7 +1,7 @@
 # Final-Project-Transforming-and-Analyzing-Data-with-SQL
 
 ## Project/Goals
--the project is to get a few files (CSV) and to sift through them to then understand it a little while getting into the mindset of what a data scientist thinks like to then come out with beneficial information.  project goals are to be able to read data more efficiently, along with being able to point out the flaws and the issues data might have before even having the ability to clean or scrape through it. 
+-the project is to get a few files to sift through, to then understand/interpret. To think like a data scientist thinks to then come out with beneficial information. Project goals are to be able to read data more efficiently, along with being able to point out the flaws and the issues data might have before even having the ability to clean or scrape through it. 
 
 ## Process
 Step 1: Import and Explore Data
@@ -22,4 +22,4 @@ Description: Conduct a thorough data quality assessment to identify issues and f
 - make more sense of the data
 - clean up more of the data types
 - fill in more of the cells
-- cross reference the cities that might need to be filled connected to their respected countries.
+- cross reference the cities that might need to be filled connected to their respective countries.
