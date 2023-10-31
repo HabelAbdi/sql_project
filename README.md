@@ -5,7 +5,7 @@
 
 ## Process
 Step 1: Import and Explore Data
-Description: Begin by importing the CSV files into a data analysis tool (like Python with pandas or any other preferred tool). Perform initial data exploration tasks such as displaying the first few rows, checking data types, identifying columns, and understanding the overall structure of the data. This step helps in gaining a preliminary understanding of the data and its format. 
+Description: Begin by importing the files into a data analysis tool. Perform initial data exploration tasks such as displaying the first few rows, checking data types, identifying columns, and understanding the overall structure of the data. This step helps in gaining a preliminary understanding of the data and its format. 
 
 
 step 2: Data Quality Assessment
